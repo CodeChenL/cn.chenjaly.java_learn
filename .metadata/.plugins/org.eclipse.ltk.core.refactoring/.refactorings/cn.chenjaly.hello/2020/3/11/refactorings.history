@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“cn.chenjaly.hello.hellworld”重命名为“Hellworld”&#x0D;&#x0A;－ 原始项目：“cn.chenjaly.hello”&#x0D;&#x0A;－ 原始元素：“cn.chenjaly.hello.hellworld”&#x0D;&#x0A;－ 重命名的元素：“cn.chenjaly.hello.Hellworld”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“hellworld”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;cn.chenjaly.hello{hellworld.java[hellworld" matchStrategy="1" name="Hellworld" qualified="false" references="true" similarDeclarations="false" stamp="1584064136006" textual="false" version="1.0"/>
+</session>

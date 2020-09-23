@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Cn.chenjaly.javalean&apos;&#x0D;&#x0A;- Original project: &apos;cn.chenjaly.hello&apos;&#x0D;&#x0A;- Destination element: &apos;Cn.chenjaly.javalean&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     cn.chenjaly.hello.pi.java&#x0D;&#x0A;     cn.chenjaly.hello.While.java&#x0D;&#x0A;     cn.chenjaly.hello.Switch.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Cn.chenjaly.javalean" element1="/src&lt;cn.chenjaly.hello{pi.java" element2="/src&lt;cn.chenjaly.hello{While.java" element3="/src&lt;cn.chenjaly.hello{Switch.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1590241368147" units="3" version="1.0"/>
+</session>

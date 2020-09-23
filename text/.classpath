@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Desktop/repo/java/MallManagement/JDBC/jar包集合/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/repo/java/MallManagement/JDBC/jar包集合/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/repo/java/MallManagement/JDBC/jar包集合/mysql-connector-java-3.1.8-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
